@@ -3,7 +3,7 @@ function Header(){
   return(
 <div>
 <header>
-  <h1> ShapeAi Bootcamps</h1>
+  <h1> ShapeAI Bootcamps</h1>
 </header>
 </div>
 
